@@ -1,0 +1,1024 @@
+Process Log - Created at 2025-03-19 21:40:07.464154
+
+=== Process List at 2025-03-19 21:40:07.464487 ===
+PID: 0, Name: System Idle Process, Path: None
+PID: 4, Name: System, Path: 
+PID: 188, Name: , Path: 
+PID: 232, Name: Registry, Path: Registry
+PID: 420, Name: vmwp.exe, Path: C:\Windows\System32\vmwp.exe
+PID: 652, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 752, Name: smss.exe, Path: C:\Windows\System32\smss.exe
+PID: 896, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 952, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1052, Name: csrss.exe, Path: C:\Windows\System32\csrss.exe
+PID: 1144, Name: wininit.exe, Path: C:\Windows\System32\wininit.exe
+PID: 1152, Name: csrss.exe, Path: C:\Windows\System32\csrss.exe
+PID: 1244, Name: winlogon.exe, Path: C:\Windows\System32\winlogon.exe
+PID: 1264, Name: services.exe, Path: C:\Windows\System32\services.exe
+PID: 1308, Name: LsaIso.exe, Path: C:\Windows\System32\LsaIso.exe
+PID: 1316, Name: lsass.exe, Path: C:\Windows\System32\lsass.exe
+PID: 1424, Name: OpenConsole.exe, Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.21.3231.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+PID: 1456, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1484, Name: fontdrvhost.exe, Path: C:\Windows\System32\fontdrvhost.exe
+PID: 1492, Name: fontdrvhost.exe, Path: C:\Windows\System32\fontdrvhost.exe
+PID: 1568, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 1620, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1628, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1672, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1720, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1760, Name: dwm.exe, Path: C:\Windows\System32\dwm.exe
+PID: 1840, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1864, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 1868, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1908, Name: LsaToast.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\IntelligentSensingAwareService\LsaToast.exe
+PID: 1924, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1932, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1980, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2028, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2040, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2060, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2112, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2220, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 2236, Name: IntelCpHDCPSvc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e4d26f3065893cad\IntelCpHDCPSvc.exe
+PID: 2296, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2308, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2336, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2440, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2456, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 2608, Name: ShellHost.exe, Path: C:\Windows\System32\ShellHost.exe
+PID: 2672, Name: vmmemWSL, Path: vmmemWSL
+PID: 2792, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2868, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2916, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3124, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3168, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3188, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3196, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3240, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3268, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 3352, Name: MemCompression, Path: MemCompression
+PID: 3384, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3456, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3480, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3488, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3572, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3632, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3648, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3660, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3700, Name: spoolsv.exe, Path: C:\Windows\System32\spoolsv.exe
+PID: 3708, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3764, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3856, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3900, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3920, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4008, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4180, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4244, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 4304, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4312, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4324, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4332, Name: FMService64.exe, Path: C:\Windows\System32\FMService64.exe
+PID: 4344, Name: DAX3API.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dax3_swc_aposvc.inf_amd64_91e825316dd5b8b9\DAX3API.exe
+PID: 4376, Name: ipfsvc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dtt_sw.inf_amd64_a56d66a9d40a4cb2\ipfsvc.exe
+PID: 4420, Name: GooglePlayGamesServices.exe, Path: C:\Program Files\Google\Play Games Services\25.3.177.0\Service\GooglePlayGamesServices.exe
+PID: 4436, Name: OfficeClickToRun.exe, Path: C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+PID: 4564, Name: WmiApSrv.exe, Path: C:\Windows\System32\wbem\WmiApSrv.exe
+PID: 4572, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4696, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4724, Name: IntelAudioService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_6fa60c4b09f4675e\AS\IAS\IntelAudioService.exe
+PID: 4744, Name: LsaRpcServer.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\IntelligentSensingAwareService\LsaRpcServer.exe
+PID: 4780, Name: RtkBtManServ.exe, Path: C:\Windows\RtkBtManServ.exe
+PID: 4788, Name: SmartAppearanceSVC.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\SmartAppearanceAIService\SmartAppearanceSVC.exe
+PID: 4796, Name: nessus-service.exe, Path: C:\Program Files\Tenable\Nessus\nessus-service.exe
+PID: 4804, Name: UDClientService.exe, Path: C:\Windows\System32\drivers\Lenovo\udc\Service\UDClientService.exe
+PID: 4812, Name: vmnetdhcp.exe, Path: C:\Windows\SysWOW64\vmnetdhcp.exe
+PID: 4824, Name: vmnat.exe, Path: C:\Windows\SysWOW64\vmnat.exe
+PID: 4844, Name: SenaryAudioApp.Svc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\audioservice.inf_amd64_2813fd7acd24ff06\SenaryAudioApp.Svc.exe
+PID: 4856, Name: ipf_uf.exe, Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_7b0f1310c58d1db9\ipf_uf.exe
+PID: 4860, Name: jhi_service.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_8a3f88e34f6b8385\jhi_service.exe
+PID: 4872, Name: LenovoUtilityService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\LenovoUtilityService.exe
+PID: 4884, Name: wazuh-agent.exe, Path: C:\Program Files (x86)\ossec-agent\wazuh-agent.exe
+PID: 4900, Name: wslservice.exe, Path: C:\Program Files\WSL\wslservice.exe
+PID: 4912, Name: mongod.exe, Path: C:\Program Files\MongoDB\Server\8.0\bin\mongod.exe
+PID: 4920, Name: SmartSense.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\SmartSense.exe
+PID: 4940, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4956, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4976, Name: Docker Desktop.exe, Path: C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+PID: 4980, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4988, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5024, Name: Lenovo.Modern.ImController.exe, Path: C:\Windows\Lenovo\ImController\Service\Lenovo.Modern.ImController.exe
+PID: 5204, Name: OneApp.IGCC.WinService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_8660e4d6e8832471\OneApp.IGCC.WinService.exe
+PID: 5216, Name: WhatsApp.exe, Path: C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2504.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+PID: 5224, Name: LNBITSSvc.exe, Path: C:\Windows\System32\LNBITSSvc.exe
+PID: 5284, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 5292, Name: LenovoVantageService.exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantageService.exe
+PID: 5304, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5356, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 5404, Name: pwahelper.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\pwahelper.exe
+PID: 5504, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5524, Name: servicehost.exe, Path: C:\Program Files\McAfee\WebAdvisor\servicehost.exe
+PID: 5560, Name: WMIRegistrationService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_b966ea70c5407e74\WMIRegistrationService.exe
+PID: 5632, Name: MsMpEng.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MsMpEng.exe
+PID: 5664, Name: MpDefenderCoreService.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpDefenderCoreService.exe
+PID: 5680, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5688, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5704, Name: splunkd.exe, Path: C:\Program Files\Splunk\bin\splunkd.exe
+PID: 5728, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5852, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 5864, Name: splunkd.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe
+PID: 5876, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 5892, Name: FaceBeautify.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\SmartAppearanceAIService\FaceBeautify.exe
+PID: 6036, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 6056, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 6108, Name: vmware-authd.exe, Path: C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe
+PID: 6116, Name: vmware-usbarbitrator64.exe, Path: C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+PID: 6156, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 6180, Name: LenovoPPM.exe, Path: C:\Windows\System32\drivers\LenovoPPM.exe
+PID: 6236, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 6404, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 6408, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 6944, Name: ipf_helper.exe, Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_7b0f1310c58d1db9\ipf_helper.exe
+PID: 7060, Name: nessusd.exe, Path: C:\Program Files\Tenable\Nessus\nessusd.exe
+PID: 7076, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 7272, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 7276, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 7392, Name: LenovoVantage-(GenericTelemetryAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(GenericTelemetryAddin).exe
+PID: 7680, Name: sihost.exe, Path: C:\Windows\System32\sihost.exe
+PID: 7736, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 7812, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 7820, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 7852, Name: DAX3API.exe, Path: C:\Windows\System32\DriverStore\FileRepository\DAX3_S~2.INF\DAX3API.exe
+PID: 8092, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 8096, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 8140, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 8172, Name: WmiPrvSE.exe, Path: C:\Windows\System32\wbem\WmiPrvSE.exe
+PID: 8260, Name: pet.exe, Path: C:\Users\NANDHA GOPAL\.vscode\extensions\ms-python.python-2025.2.0-win32-x64\python-env-tools\bin\pet.exe
+PID: 8580, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 8608, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 8624, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 8672, Name: AutoModeDetect.exe, Path: C:\Windows\System32\AutoModeDetect.exe
+PID: 8692, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 8736, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 8740, Name: taskhostw.exe, Path: C:\Windows\System32\taskhostw.exe
+PID: 8744, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 8876, Name: SmartSenseController.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\SmartSenseController.exe
+PID: 8896, Name: uihost.exe, Path: C:\Program Files\McAfee\WebAdvisor\uihost.exe
+PID: 8904, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 9488, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 9616, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9660, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 9664, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9700, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9740, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 9808, Name: gamingservices.exe, Path: C:\Program Files\WindowsApps\Microsoft.GamingServices_26.95.25001.0_x64__8wekyb3d8bbwe\gamingservices.exe
+PID: 9992, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10064, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10080, Name: SDXHelper.exe, Path: C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+PID: 10104, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10180, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 10212, Name: gamingservicesnet.exe, Path: C:\Program Files\WindowsApps\Microsoft.GamingServices_26.95.25001.0_x64__8wekyb3d8bbwe\gamingservicesnet.exe
+PID: 10420, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 10440, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10560, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 10608, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10656, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 10768, Name: LenovoVantage-(LenovoServiceBridgeAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(LenovoServiceBridgeAddin).exe
+PID: 10820, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 11012, Name: BraveCrashHandler.exe, Path: C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler.exe
+PID: 11116, Name: BraveCrashHandler64.exe, Path: C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler64.exe
+PID: 11164, Name: explorer.exe, Path: C:\Windows\explorer.exe
+PID: 11352, Name: crashpad_handler.exe, Path: C:\Program Files\Google\Play Games Services\25.3.177.0\Service\data\windows.assets\crashpad_handler.exe
+PID: 11468, Name: splunk-perfmon.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunk-perfmon.exe
+PID: 11724, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11732, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11788, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 11792, Name: StartMenuExperienceHost.exe, Path: C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+PID: 11924, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 11948, Name: AggregatorHost.exe, Path: C:\Windows\System32\AggregatorHost.exe
+PID: 12008, Name: SearchProtocolHost.exe, Path: C:\Windows\System32\SearchProtocolHost.exe
+PID: 12036, Name: FnHotkeyCapsLKNumLK.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\FnHotkeyCapsLKNumLK.exe
+PID: 12048, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 12280, Name: FnHotkeyUtility.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\FnHotkeyUtility.exe
+PID: 12360, Name: Widgets.exe, Path: C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.34401.20.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+PID: 12440, Name: WidgetService.exe, Path: C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.1.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+PID: 12660, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 12964, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 12968, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13092, Name: SearchHost.exe, Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+PID: 13112, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 13132, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13164, Name: com.docker.backend.exe, Path: C:\Program Files\Docker\Docker\resources\com.docker.backend.exe
+PID: 13176, Name: ApplicationFrameHost.exe, Path: C:\Windows\System32\ApplicationFrameHost.exe
+PID: 13356, Name: NisSrv.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\NisSrv.exe
+PID: 13360, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13388, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13636, Name: compsup.exe, Path: C:\Program Files\Splunk\bin\compsup.exe
+PID: 13988, Name: BatteryWidgetHost.exe, Path: C:\ProgramData\Lenovo\Vantage\Addins\BatteryWidgetAddin\2.1.0.256\BatteryWidgetHost\BatteryWidgetHost.exe
+PID: 14040, Name: Locator.exe, Path: C:\Windows\System32\Locator.exe
+PID: 14088, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 14128, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 14232, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 14252, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 14276, Name: ctfmon.exe, Path: C:\Windows\System32\ctfmon.exe
+PID: 14640, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 14672, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 14680, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 14912, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 14960, Name: SearchIndexer.exe, Path: C:\Windows\System32\SearchIndexer.exe
+PID: 14980, Name: ShellExperienceHost.exe, Path: C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+PID: 14996, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 15236, Name: splunk-winevtlog.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe
+PID: 15356, Name: AppProvisioningPlugin.exe, Path: C:\ProgramData\Lenovo\Udc\Hosts\24.10.0.10\x64\AppProvisioningPlugin.exe
+PID: 15420, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 15424, Name: python.exe, Path: C:\Users\NANDHA GOPAL\OneDrive\Desktop\practice\.venv\Scripts\python.exe
+PID: 15504, Name: PhoneExperienceHost.exe, Path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24121.85.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+PID: 15656, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 15784, Name: SecurityHealthSystray.exe, Path: C:\Windows\System32\SecurityHealthSystray.exe
+PID: 15792, Name: SecurityHealthService.exe, Path: C:\Windows\System32\SecurityHealthService.exe
+PID: 15908, Name: LenovoVantage-(SmartDisplayAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(SmartDisplayAddin).exe
+PID: 15952, Name: audiodg.exe, Path: C:\Windows\System32\audiodg.exe
+PID: 15968, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 16140, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 16212, Name: LenovoVantage-(VantageCoreAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(VantageCoreAddin).exe
+PID: 16548, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 16552, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 16660, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 16672, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 16704, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 16812, Name: mongod.exe, Path: C:\Program Files\Splunk\bin\mongod.exe
+PID: 16920, Name: LenovoVantage-(GenericMessagingAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(GenericMessagingAddin).exe
+PID: 16972, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17040, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17200, Name: WmiPrvSE.exe, Path: C:\Windows\System32\wbem\WmiPrvSE.exe
+PID: 17284, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17324, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17448, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 17648, Name: Docker Desktop.exe, Path: C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+PID: 17656, Name: identity.exe, Path: C:\Program Files\Splunk\var\run\supervisor\pkg-run\pkg-identity2960352888\identity.exe
+PID: 17680, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 17828, Name: splunkd.exe, Path: C:\Program Files\Splunk\bin\splunkd.exe
+PID: 17840, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 17856, Name: LenovoVantage-(SettingsWidgetAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(SettingsWidgetAddin).exe
+PID: 17860, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 17908, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 18156, Name: python3.9.exe, Path: C:\Program Files\Splunk\bin\python3.9.exe
+PID: 18200, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 18212, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 18252, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 18260, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 18344, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 18356, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 18468, Name: vmcompute.exe, Path: C:\Windows\System32\vmcompute.exe
+PID: 18500, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 18504, Name: Lenovo.Modern.ImController.PluginHost.Device.exe, Path: C:\Windows\Lenovo\ImController\PluginHost86\Lenovo.Modern.ImController.PluginHost.Device.exe
+PID: 18848, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 18912, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 19376, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 19408, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 19440, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 19464, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 19956, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 20012, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 20028, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 20220, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 20748, Name: UserOOBEBroker.exe, Path: C:\Windows\System32\oobe\UserOOBEBroker.exe
+PID: 20760, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 20772, Name: com.docker.backend.exe, Path: C:\Program Files\Docker\Docker\resources\com.docker.backend.exe
+PID: 20868, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 20924, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 20972, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 20976, Name: Docker Desktop.exe, Path: C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+PID: 21304, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 21308, Name: com.docker.dev-envs.exe, Path: C:\Program Files\Docker\Docker\resources\com.docker.dev-envs.exe
+PID: 21496, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 21752, Name: UserSSCtrl.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\UserSSCtrl.exe
+PID: 21864, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 22084, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 22272, Name: taskhostw.exe, Path: C:\Windows\System32\taskhostw.exe
+PID: 22432, Name: wsl.exe, Path: C:\Program Files\WSL\wsl.exe
+PID: 22456, Name: python.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Python\Python313\python.exe
+PID: 22520, Name: com.docker.build.exe, Path: C:\Program Files\Docker\Docker\resources\com.docker.build.exe
+PID: 22540, Name: msrdc.exe, Path: C:\Program Files\WSL\msrdc.exe
+PID: 22700, Name: wsl.exe, Path: C:\Program Files\WSL\wsl.exe
+PID: 22968, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 23152, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 23208, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 23240, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 23392, Name: wsl.exe, Path: C:\Program Files\WSL\wsl.exe
+PID: 23580, Name: wsl.exe, Path: C:\Windows\System32\wsl.exe
+PID: 23680, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 23916, Name: wsl.exe, Path: C:\Windows\System32\wsl.exe
+PID: 24156, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 24256, Name: OpenConsole.exe, Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.21.3231.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+PID: 24412, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 24504, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 24548, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 24804, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 24840, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 25324, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 25352, Name: wsl.exe, Path: C:\Program Files\WSL\wsl.exe
+PID: 25388, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 25400, Name: LenovoVantage-(MultimediaAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(MultimediaAddin).exe
+PID: 25516, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 25684, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 26012, Name: SystemSettings.exe, Path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+PID: 26076, Name: msrdc.exe, Path: C:\Program Files\WSL\msrdc.exe
+PID: 26204, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 26216, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 26280, Name: Service.exe, Path: C:\Program Files\Google\Play Games\current\service\Service.exe
+PID: 26496, Name: crashpad_handler.exe, Path: C:\Program Files\Google\Play Games\current\emulator\crashpad_handler.exe
+PID: 26520, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 26604, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 26628, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 26748, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 26804, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 26852, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 26868, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 27216, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 27404, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 28572, Name: wslrelay.exe, Path: C:\Program Files\WSL\wslrelay.exe
+PID: 29056, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 29276, Name: backgroundTaskHost.exe, Path: C:\Windows\System32\backgroundTaskHost.exe
+PID: 29880, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 30256, Name: wsl.exe, Path: C:\Windows\System32\wsl.exe
+PID: 30632, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 30664, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 31168, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 31320, Name: LenovoVantage-(IdeaNotebookAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(IdeaNotebookAddin).exe
+PID: 31368, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 31528, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 31764, Name: wsl.exe, Path: C:\Windows\System32\wsl.exe
+PID: 32160, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 32296, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 32336, Name: WindowsTerminal.exe, Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.21.3231.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+PID: 32388, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 32684, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+
+=== Process List at 2025-03-20 21:55:53.231162 ===
+PID: 0, Name: System Idle Process, Path: None
+PID: 4, Name: System, Path: 
+PID: 188, Name: , Path: 
+PID: 232, Name: Registry, Path: Registry
+PID: 732, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 784, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 796, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 812, Name: smss.exe, Path: C:\Windows\System32\smss.exe
+PID: 1096, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 1108, Name: csrss.exe, Path: C:\Windows\System32\csrss.exe
+PID: 1200, Name: wininit.exe, Path: C:\Windows\System32\wininit.exe
+PID: 1212, Name: csrss.exe, Path: C:\Windows\System32\csrss.exe
+PID: 1228, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 1272, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1304, Name: winlogon.exe, Path: C:\Windows\System32\winlogon.exe
+PID: 1324, Name: services.exe, Path: C:\Windows\System32\services.exe
+PID: 1340, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 1368, Name: LsaIso.exe, Path: C:\Windows\System32\LsaIso.exe
+PID: 1376, Name: lsass.exe, Path: C:\Windows\System32\lsass.exe
+PID: 1508, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1536, Name: fontdrvhost.exe, Path: C:\Windows\System32\fontdrvhost.exe
+PID: 1544, Name: fontdrvhost.exe, Path: C:\Windows\System32\fontdrvhost.exe
+PID: 1624, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 1676, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1724, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1804, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1820, Name: dwm.exe, Path: C:\Windows\System32\dwm.exe
+PID: 1892, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 1912, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1924, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1988, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2000, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2132, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2180, Name: IntelCpHDCPSvc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e4d26f3065893cad\IntelCpHDCPSvc.exe
+PID: 2188, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2224, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2344, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2360, Name: WmiPrvSE.exe, Path: C:\Windows\System32\wbem\WmiPrvSE.exe
+PID: 2372, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2544, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2564, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 2576, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2724, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 2736, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2792, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 2852, Name: LenovoVantage-(SmartDisplayAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(SmartDisplayAddin).exe
+PID: 2884, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2912, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 2936, Name: LenovoVantageService.exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantageService.exe
+PID: 2952, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2964, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3012, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 3056, Name: SDXHelper.exe, Path: C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+PID: 3120, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3128, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3144, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3172, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3192, Name: LenovoVantage-(IdeaNotebookAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(IdeaNotebookAddin).exe
+PID: 3220, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3280, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 3308, Name: MemCompression, Path: MemCompression
+PID: 3376, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3464, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3472, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3480, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3520, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3552, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3640, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3652, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3664, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3704, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3712, Name: SearchProtocolHost.exe, Path: C:\Windows\System32\SearchProtocolHost.exe
+PID: 3720, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3732, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3764, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 3824, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3916, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3920, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3972, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3984, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4068, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4120, Name: spoolsv.exe, Path: C:\Windows\System32\spoolsv.exe
+PID: 4164, Name: UserOOBEBroker.exe, Path: C:\Windows\System32\oobe\UserOOBEBroker.exe
+PID: 4276, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4372, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 4408, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4448, Name: OfficeClickToRun.exe, Path: C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+PID: 4484, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4524, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 4568, Name: FMService64.exe, Path: C:\Windows\System32\FMService64.exe
+PID: 4580, Name: FnHotkeyCapsLKNumLK.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\FnHotkeyCapsLKNumLK.exe
+PID: 4644, Name: OneApp.IGCC.WinService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_8660e4d6e8832471\OneApp.IGCC.WinService.exe
+PID: 4680, Name: Lenovo.Modern.ImController.exe, Path: C:\Windows\Lenovo\ImController\Service\Lenovo.Modern.ImController.exe
+PID: 4696, Name: DAX3API.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dax3_swc_aposvc.inf_amd64_91e825316dd5b8b9\DAX3API.exe
+PID: 4728, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4768, Name: BraveCrashHandler.exe, Path: C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler.exe
+PID: 4800, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4812, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 4816, Name: ipfsvc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dtt_sw.inf_amd64_a56d66a9d40a4cb2\ipfsvc.exe
+PID: 4852, Name: LNBITSSvc.exe, Path: C:\Windows\System32\LNBITSSvc.exe
+PID: 4876, Name: IntelAudioService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_6fa60c4b09f4675e\AS\IAS\IntelAudioService.exe
+PID: 4904, Name: ipf_uf.exe, Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_7b0f1310c58d1db9\ipf_uf.exe
+PID: 4936, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4968, Name: sihost.exe, Path: C:\Windows\System32\sihost.exe
+PID: 4984, Name: jhi_service.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_8a3f88e34f6b8385\jhi_service.exe
+PID: 5044, Name: uihost.exe, Path: C:\Program Files\McAfee\WebAdvisor\uihost.exe
+PID: 5064, Name: LenovoUtilityService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\LenovoUtilityService.exe
+PID: 5072, Name: LsaRpcServer.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\IntelligentSensingAwareService\LsaRpcServer.exe
+PID: 5092, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5144, Name: mongod.exe, Path: C:\Program Files\MongoDB\Server\8.0\bin\mongod.exe
+PID: 5176, Name: servicehost.exe, Path: C:\Program Files\McAfee\WebAdvisor\servicehost.exe
+PID: 5196, Name: MpDefenderCoreService.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpDefenderCoreService.exe
+PID: 5232, Name: SenaryAudioApp.Svc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\audioservice.inf_amd64_2813fd7acd24ff06\SenaryAudioApp.Svc.exe
+PID: 5260, Name: RtkBtManServ.exe, Path: C:\Windows\RtkBtManServ.exe
+PID: 5288, Name: SmartSense.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\SmartSense.exe
+PID: 5300, Name: SmartAppearanceSVC.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\SmartAppearanceAIService\SmartAppearanceSVC.exe
+PID: 5324, Name: splunkd.exe, Path: C:\Program Files\Splunk\bin\splunkd.exe
+PID: 5468, Name: nessus-service.exe, Path: C:\Program Files\Tenable\Nessus\nessus-service.exe
+PID: 5576, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5604, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5676, Name: vmnetdhcp.exe, Path: C:\Windows\SysWOW64\vmnetdhcp.exe
+PID: 5728, Name: vmnat.exe, Path: C:\Windows\SysWOW64\vmnat.exe
+PID: 5744, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5808, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5816, Name: splunkd.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe
+PID: 5852, Name: WMIRegistrationService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_b966ea70c5407e74\WMIRegistrationService.exe
+PID: 5868, Name: UDClientService.exe, Path: C:\Windows\System32\drivers\Lenovo\udc\Service\UDClientService.exe
+PID: 5912, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 6004, Name: wslservice.exe, Path: C:\Program Files\WSL\wslservice.exe
+PID: 6016, Name: ShellHost.exe, Path: C:\Windows\System32\ShellHost.exe
+PID: 6020, Name: MsMpEng.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MsMpEng.exe
+PID: 6040, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 6140, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 6152, Name: SearchHost.exe, Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+PID: 6336, Name: SystemSettings.exe, Path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+PID: 6408, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 6512, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 6596, Name: vmware-usbarbitrator64.exe, Path: C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+PID: 6604, Name: vmware-authd.exe, Path: C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe
+PID: 6632, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 6652, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 6716, Name: SmartSenseController.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\SmartSenseController.exe
+PID: 6736, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 6932, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 7140, Name: DAX3API.exe, Path: C:\Windows\System32\DriverStore\FileRepository\DAX3_S~2.INF\DAX3API.exe
+PID: 7232, Name: smartscreen.exe, Path: C:\Windows\System32\smartscreen.exe
+PID: 7248, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 7256, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 7440, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 7612, Name: LenovoPPM.exe, Path: C:\Windows\System32\drivers\LenovoPPM.exe
+PID: 7676, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 7688, Name: ipf_helper.exe, Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_7b0f1310c58d1db9\ipf_helper.exe
+PID: 7700, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 7736, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 7748, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 7764, Name: nessusd.exe, Path: C:\Program Files\Tenable\Nessus\nessusd.exe
+PID: 7808, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 7980, Name: FaceBeautify.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\SmartAppearanceAIService\FaceBeautify.exe
+PID: 8208, Name: AutoModeDetect.exe, Path: C:\Windows\System32\AutoModeDetect.exe
+PID: 8244, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 8332, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 8396, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 8456, Name: WmiPrvSE.exe, Path: C:\Windows\System32\wbem\WmiPrvSE.exe
+PID: 8472, Name: LenovoVantage-(LenovoServiceBridgeAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(LenovoServiceBridgeAddin).exe
+PID: 8476, Name: LockApp.exe, Path: C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+PID: 8512, Name: wsl.exe, Path: C:\Windows\System32\wsl.exe
+PID: 8540, Name: wsl.exe, Path: C:\Program Files\WSL\wsl.exe
+PID: 8548, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 8704, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 8716, Name: python3.9.exe, Path: C:\Program Files\Splunk\bin\python3.9.exe
+PID: 8720, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 8772, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 8808, Name: LenovoVantage-(GenericTelemetryAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(GenericTelemetryAddin).exe
+PID: 8892, Name: ApplicationFrameHost.exe, Path: C:\Windows\System32\ApplicationFrameHost.exe
+PID: 8936, Name: LenovoVantage-(MultimediaAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(MultimediaAddin).exe
+PID: 9104, Name: taskhostw.exe, Path: C:\Windows\System32\taskhostw.exe
+PID: 9224, Name: ShellExperienceHost.exe, Path: C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+PID: 9392, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9540, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9580, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9624, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 9640, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9652, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 9704, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9804, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9844, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 9856, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10004, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 10024, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 10028, Name: gamingservices.exe, Path: C:\Program Files\WindowsApps\Microsoft.GamingServices_26.95.25001.0_x64__8wekyb3d8bbwe\gamingservices.exe
+PID: 10088, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10112, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10124, Name: gamingservicesnet.exe, Path: C:\Program Files\WindowsApps\Microsoft.GamingServices_26.95.25001.0_x64__8wekyb3d8bbwe\gamingservicesnet.exe
+PID: 10232, Name: LenovoVantage-(VantageCoreAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(VantageCoreAddin).exe
+PID: 10300, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 10408, Name: StartMenuExperienceHost.exe, Path: C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+PID: 10432, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 10560, Name: explorer.exe, Path: C:\Windows\explorer.exe
+PID: 10672, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10876, Name: python.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Python\Python313\python.exe
+PID: 10920, Name: NgcIso.exe, Path: C:\Windows\System32\NgcIso.exe
+PID: 10928, Name: AggregatorHost.exe, Path: C:\Windows\System32\AggregatorHost.exe
+PID: 11004, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11020, Name: BraveCrashHandler64.exe, Path: C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler64.exe
+PID: 11052, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11104, Name: vmmemWSL, Path: vmmemWSL
+PID: 11124, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11216, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 11244, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 11280, Name: PhoneExperienceHost.exe, Path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24121.85.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+PID: 11300, Name: vmcompute.exe, Path: C:\Windows\System32\vmcompute.exe
+PID: 11340, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11392, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11412, Name: LsaToast.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\IntelligentSensingAwareService\LsaToast.exe
+PID: 11468, Name: NisSrv.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\NisSrv.exe
+PID: 11512, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 11644, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 11696, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11768, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 12020, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 12220, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 12236, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 12240, Name: SecurityHealthService.exe, Path: C:\Windows\System32\SecurityHealthService.exe
+PID: 12316, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 12512, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 12684, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 12728, Name: Widgets.exe, Path: C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.34401.20.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+PID: 12760, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 12952, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 12980, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13000, Name: WmiApSrv.exe, Path: C:\Windows\System32\wbem\WmiApSrv.exe
+PID: 13100, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 13292, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 13332, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 13392, Name: WidgetService.exe, Path: C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.1.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+PID: 13448, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 13504, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13508, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 13552, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13632, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 13636, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13816, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 13832, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 13940, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 14096, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 14116, Name: Locator.exe, Path: C:\Windows\System32\Locator.exe
+PID: 14232, Name: OpenConsole.exe, Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.21.3231.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+PID: 14272, Name: python3.9.exe, Path: C:\Program Files\Splunk\bin\python3.9.exe
+PID: 14288, Name: ctfmon.exe, Path: C:\Windows\System32\ctfmon.exe
+PID: 14384, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 14400, Name: FnHotkeyUtility.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\FnHotkeyUtility.exe
+PID: 14472, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 14520, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 14812, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 15104, Name: LenovoVantage-(SettingsWidgetAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(SettingsWidgetAddin).exe
+PID: 15408, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 15632, Name: BatteryWidgetHost.exe, Path: C:\ProgramData\Lenovo\Vantage\Addins\BatteryWidgetAddin\2.1.0.256\BatteryWidgetHost\BatteryWidgetHost.exe
+PID: 15776, Name: splunk-perfmon.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunk-perfmon.exe
+PID: 15784, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 15796, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 15876, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 16036, Name: splunk-winevtlog.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe
+PID: 16188, Name: compsup.exe, Path: C:\Program Files\Splunk\bin\compsup.exe
+PID: 16532, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 16656, Name: backgroundTaskHost.exe, Path: C:\Windows\System32\backgroundTaskHost.exe
+PID: 16676, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 16728, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 16744, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 16772, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 16780, Name: OpenConsole.exe, Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.21.3231.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+PID: 16876, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 16988, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17032, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17216, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17224, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 17252, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17396, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17428, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 17668, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 17724, Name: mongod.exe, Path: C:\Program Files\Splunk\bin\mongod.exe
+PID: 17784, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17800, Name: AppProvisioningPlugin.exe, Path: C:\ProgramData\Lenovo\Udc\Hosts\24.10.0.10\x64\AppProvisioningPlugin.exe
+PID: 17848, Name: SearchFilterHost.exe, Path: C:\Windows\System32\SearchFilterHost.exe
+PID: 17872, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 17888, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 17908, Name: LenovoVantage-(GenericMessagingAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(GenericMessagingAddin).exe
+PID: 18164, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 18740, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 18752, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 18836, Name: python.exe, Path: C:\Users\NANDHA GOPAL\OneDrive\Desktop\practice\.venv\Scripts\python.exe
+PID: 18996, Name: identity.exe, Path: C:\Program Files\Splunk\var\run\supervisor\pkg-run\pkg-identity3157175632\identity.exe
+PID: 19052, Name: Lenovo.Modern.ImController.PluginHost.Device.exe, Path: C:\Windows\Lenovo\ImController\PluginHost86\Lenovo.Modern.ImController.PluginHost.Device.exe
+PID: 19120, Name: SearchIndexer.exe, Path: C:\Windows\System32\SearchIndexer.exe
+PID: 19132, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 19136, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 19288, Name: SecurityHealthSystray.exe, Path: C:\Windows\System32\SecurityHealthSystray.exe
+PID: 19580, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 19708, Name: UserSSCtrl.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\UserSSCtrl.exe
+PID: 19720, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 19888, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 19944, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 20020, Name: splunkd.exe, Path: C:\Program Files\Splunk\bin\splunkd.exe
+PID: 20208, Name: python3.9.exe, Path: C:\Program Files\Splunk\bin\python3.9.exe
+PID: 20252, Name: WhatsApp.exe, Path: C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2504.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+PID: 20948, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 21024, Name: cpptools.exe, Path: C:\Users\NANDHA GOPAL\.vscode\extensions\ms-vscode.cpptools-1.23.6-win32-x64\bin\cpptools.exe
+PID: 21228, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 21704, Name: WindowsTerminal.exe, Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.21.3231.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+PID: 21876, Name: audiodg.exe, Path: C:\Windows\System32\audiodg.exe
+PID: 22004, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 22056, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 22160, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 22268, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 22316, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 22324, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 22388, Name: wsl.exe, Path: C:\Windows\System32\wsl.exe
+PID: 22504, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 22544, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 22568, Name: brave.exe, Path: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+PID: 22720, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 22760, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 22776, Name: cpptools.exe, Path: C:\Users\NANDHA GOPAL\.vscode\extensions\ms-vscode.cpptools-1.23.6-win32-x64\bin\cpptools.exe
+PID: 22784, Name: SearchProtocolHost.exe, Path: C:\Windows\System32\SearchProtocolHost.exe
+PID: 22832, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 22876, Name: WmiPrvSE.exe, Path: C:\Windows\System32\wbem\WmiPrvSE.exe
+PID: 23160, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 24216, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 24272, Name: msrdc.exe, Path: C:\Program Files\WSL\msrdc.exe
+PID: 24316, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 24408, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 24504, Name: wslrelay.exe, Path: C:\Program Files\WSL\wslrelay.exe
+PID: 24544, Name: vmwp.exe, Path: C:\Windows\System32\vmwp.exe
+PID: 24756, Name: wsl.exe, Path: C:\Program Files\WSL\wsl.exe
+PID: 24804, Name: msrdc.exe, Path: C:\Program Files\WSL\msrdc.exe
+PID: 24908, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 24952, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 24960, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 25020, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 25240, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 25396, Name: pet.exe, Path: C:\Users\NANDHA GOPAL\.vscode\extensions\ms-python.python-2025.2.0-win32-x64\python-env-tools\bin\pet.exe
+
+=== Process List at 2025-03-21 13:14:34.782391 ===
+PID: 0, Name: System Idle Process, Path: None
+PID: 4, Name: System, Path: 
+PID: 188, Name: , Path: 
+PID: 232, Name: Registry, Path: Registry
+PID: 732, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 784, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 796, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 812, Name: smss.exe, Path: C:\Windows\System32\smss.exe
+PID: 1108, Name: csrss.exe, Path: C:\Windows\System32\csrss.exe
+PID: 1200, Name: wininit.exe, Path: C:\Windows\System32\wininit.exe
+PID: 1272, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1324, Name: services.exe, Path: C:\Windows\System32\services.exe
+PID: 1368, Name: LsaIso.exe, Path: C:\Windows\System32\LsaIso.exe
+PID: 1376, Name: lsass.exe, Path: C:\Windows\System32\lsass.exe
+PID: 1508, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1516, Name: SearchHost.exe, Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+PID: 1524, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 1544, Name: fontdrvhost.exe, Path: C:\Windows\System32\fontdrvhost.exe
+PID: 1624, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 1676, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1724, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1768, Name: BatteryWidgetHost.exe, Path: C:\ProgramData\Lenovo\Vantage\Addins\BatteryWidgetAddin\2.1.0.256\BatteryWidgetHost\BatteryWidgetHost.exe
+PID: 1804, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1836, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 1848, Name: btool.exe, Path: C:\Program Files\Splunk\bin\btool.exe
+PID: 1912, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1924, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 1988, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2000, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2132, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2180, Name: IntelCpHDCPSvc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e4d26f3065893cad\IntelCpHDCPSvc.exe
+PID: 2188, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2224, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2344, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2372, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2544, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2564, Name: LockApp.exe, Path: C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+PID: 2576, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2600, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 2660, Name: SecurityHealthSystray.exe, Path: C:\Windows\System32\SecurityHealthSystray.exe
+PID: 2724, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 2736, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2884, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2928, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2936, Name: LenovoVantageService.exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantageService.exe
+PID: 2952, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 2964, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3008, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 3120, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3128, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3144, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3172, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3216, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 3220, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3308, Name: MemCompression, Path: MemCompression
+PID: 3376, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3404, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 3456, Name: DAX3API.exe, Path: C:\Windows\System32\DriverStore\FileRepository\DAX3_S~2.INF\DAX3API.exe
+PID: 3464, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3472, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3480, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3520, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3552, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3640, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3652, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3664, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3704, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3720, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3732, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3824, Name: WUDFHost.exe, Path: C:\Windows\System32\WUDFHost.exe
+PID: 3920, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3976, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 3984, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4068, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4120, Name: spoolsv.exe, Path: C:\Windows\System32\spoolsv.exe
+PID: 4276, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4408, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4448, Name: OfficeClickToRun.exe, Path: C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+PID: 4484, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4516, Name: audiodg.exe, Path: C:\Windows\System32\audiodg.exe
+PID: 4568, Name: FMService64.exe, Path: C:\Windows\System32\FMService64.exe
+PID: 4596, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 4644, Name: OneApp.IGCC.WinService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_8660e4d6e8832471\OneApp.IGCC.WinService.exe
+PID: 4680, Name: Lenovo.Modern.ImController.exe, Path: C:\Windows\Lenovo\ImController\Service\Lenovo.Modern.ImController.exe
+PID: 4696, Name: DAX3API.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dax3_swc_aposvc.inf_amd64_91e825316dd5b8b9\DAX3API.exe
+PID: 4728, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4740, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 4768, Name: BraveCrashHandler.exe, Path: C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler.exe
+PID: 4800, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4812, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 4816, Name: ipfsvc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dtt_sw.inf_amd64_a56d66a9d40a4cb2\ipfsvc.exe
+PID: 4852, Name: LNBITSSvc.exe, Path: C:\Windows\System32\LNBITSSvc.exe
+PID: 4876, Name: IntelAudioService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_6fa60c4b09f4675e\AS\IAS\IntelAudioService.exe
+PID: 4888, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4904, Name: ipf_uf.exe, Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_7b0f1310c58d1db9\ipf_uf.exe
+PID: 4936, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 4984, Name: jhi_service.exe, Path: C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_8a3f88e34f6b8385\jhi_service.exe
+PID: 5016, Name: backgroundTaskHost.exe, Path: C:\Windows\System32\backgroundTaskHost.exe
+PID: 5052, Name: ctfmon.exe, Path: C:\Windows\System32\ctfmon.exe
+PID: 5064, Name: LenovoUtilityService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\LenovoUtilityService.exe
+PID: 5072, Name: LsaRpcServer.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\IntelligentSensingAwareService\LsaRpcServer.exe
+PID: 5092, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5144, Name: mongod.exe, Path: C:\Program Files\MongoDB\Server\8.0\bin\mongod.exe
+PID: 5176, Name: servicehost.exe, Path: C:\Program Files\McAfee\WebAdvisor\servicehost.exe
+PID: 5196, Name: MpDefenderCoreService.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpDefenderCoreService.exe
+PID: 5232, Name: SenaryAudioApp.Svc.exe, Path: C:\Windows\System32\DriverStore\FileRepository\audioservice.inf_amd64_2813fd7acd24ff06\SenaryAudioApp.Svc.exe
+PID: 5260, Name: RtkBtManServ.exe, Path: C:\Windows\RtkBtManServ.exe
+PID: 5288, Name: SmartSense.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\SmartSense.exe
+PID: 5300, Name: SmartAppearanceSVC.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\SmartAppearanceAIService\SmartAppearanceSVC.exe
+PID: 5324, Name: splunkd.exe, Path: C:\Program Files\Splunk\bin\splunkd.exe
+PID: 5352, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 5468, Name: nessus-service.exe, Path: C:\Program Files\Tenable\Nessus\nessus-service.exe
+PID: 5520, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 5576, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5604, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5676, Name: vmnetdhcp.exe, Path: C:\Windows\SysWOW64\vmnetdhcp.exe
+PID: 5712, Name: FaceBeautify.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\SmartAppearanceAIService\FaceBeautify.exe
+PID: 5728, Name: vmnat.exe, Path: C:\Windows\SysWOW64\vmnat.exe
+PID: 5744, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5808, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 5816, Name: splunkd.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe
+PID: 5836, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 5852, Name: WMIRegistrationService.exe, Path: C:\Windows\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_b966ea70c5407e74\WMIRegistrationService.exe
+PID: 5868, Name: UDClientService.exe, Path: C:\Windows\System32\drivers\Lenovo\udc\Service\UDClientService.exe
+PID: 5912, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 6004, Name: wslservice.exe, Path: C:\Program Files\WSL\wslservice.exe
+PID: 6020, Name: MsMpEng.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MsMpEng.exe
+PID: 6320, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 6596, Name: vmware-usbarbitrator64.exe, Path: C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+PID: 6604, Name: vmware-authd.exe, Path: C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe
+PID: 6632, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 6724, Name: backgroundTaskHost.exe, Path: C:\Windows\System32\backgroundTaskHost.exe
+PID: 6732, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 6864, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 7040, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 7392, Name: Docker Desktop.exe, Path: C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+PID: 7440, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 7720, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 7764, Name: nessusd.exe, Path: C:\Program Files\Tenable\Nessus\nessusd.exe
+PID: 7772, Name: LenovoVantage-(GenericMessagingAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(GenericMessagingAddin).exe
+PID: 8116, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 8140, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 8400, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 8412, Name: LsaToast.exe, Path: C:\Program Files\Lenovo\Lenovo Smart Appearance Components\Components\IntelligentSensingAwareService\LsaToast.exe
+PID: 8456, Name: WmiPrvSE.exe, Path: C:\Windows\System32\wbem\WmiPrvSE.exe
+PID: 8548, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 8704, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 8720, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 8728, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 8736, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 8772, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9152, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 9288, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9304, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 9468, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 9484, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 9524, Name: ShellHost.exe, Path: C:\Windows\System32\ShellHost.exe
+PID: 9580, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9604, Name: SystemSettings.exe, Path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+PID: 9612, Name: vmmemWSL, Path: vmmemWSL
+PID: 9640, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9704, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9804, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 9856, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10028, Name: gamingservices.exe, Path: C:\Program Files\WindowsApps\Microsoft.GamingServices_26.95.25001.0_x64__8wekyb3d8bbwe\gamingservices.exe
+PID: 10088, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10112, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10124, Name: gamingservicesnet.exe, Path: C:\Program Files\WindowsApps\Microsoft.GamingServices_26.95.25001.0_x64__8wekyb3d8bbwe\gamingservicesnet.exe
+PID: 10188, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 10232, Name: LenovoVantage-(VantageCoreAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(VantageCoreAddin).exe
+PID: 10300, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 10380, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 10672, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10816, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 10860, Name: Widgets.exe, Path: C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.34401.20.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+PID: 10928, Name: AggregatorHost.exe, Path: C:\Windows\System32\AggregatorHost.exe
+PID: 11020, Name: BraveCrashHandler64.exe, Path: C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler64.exe
+PID: 11052, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11072, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 11124, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11248, Name: unsecapp.exe, Path: C:\Windows\System32\wbem\unsecapp.exe
+PID: 11280, Name: vmwp.exe, Path: C:\Windows\System32\vmwp.exe
+PID: 11300, Name: vmcompute.exe, Path: C:\Windows\System32\vmcompute.exe
+PID: 11340, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11344, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 11392, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 11468, Name: NisSrv.exe, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\NisSrv.exe
+PID: 11636, Name: com.docker.backend.exe, Path: C:\Program Files\Docker\Docker\resources\com.docker.backend.exe
+PID: 11800, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 11820, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 11904, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 12004, Name: wslrelay.exe, Path: C:\Program Files\WSL\wslrelay.exe
+PID: 12008, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 12128, Name: LenovoVantage-(IdeaNotebookAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(IdeaNotebookAddin).exe
+PID: 12240, Name: SecurityHealthService.exe, Path: C:\Windows\System32\SecurityHealthService.exe
+PID: 12392, Name: LenovoVantage-(SmartDisplayAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(SmartDisplayAddin).exe
+PID: 12400, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 12740, Name: ShellExperienceHost.exe, Path: C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+PID: 12760, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 12980, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13000, Name: WmiApSrv.exe, Path: C:\Windows\System32\wbem\WmiApSrv.exe
+PID: 13040, Name: AutoModeDetect.exe, Path: C:\Windows\System32\AutoModeDetect.exe
+PID: 13260, Name: taskhostw.exe, Path: C:\Windows\System32\taskhostw.exe
+PID: 13396, Name: Lenovo.Modern.ImController.PluginHost.Device.exe, Path: C:\Windows\Lenovo\ImController\PluginHost86\Lenovo.Modern.ImController.PluginHost.Device.exe
+PID: 13504, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 13508, Name: ipf_helper.exe, Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_7b0f1310c58d1db9\ipf_helper.exe
+PID: 13636, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 14084, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 14116, Name: Locator.exe, Path: C:\Windows\System32\Locator.exe
+PID: 14284, Name: PhoneExperienceHost.exe, Path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.24121.85.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+PID: 14304, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 14384, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 14512, Name: SmartSenseController.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\SmartSenseController.exe
+PID: 14520, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 14740, Name: Lenovo.Modern.ImController.PluginHost.Device.exe, Path: C:\Windows\Lenovo\ImController\PluginHost86\Lenovo.Modern.ImController.PluginHost.Device.exe
+PID: 15204, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 15656, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 15776, Name: splunk-perfmon.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunk-perfmon.exe
+PID: 15856, Name: LenovoVantage-(SettingsWidgetAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(SettingsWidgetAddin).exe
+PID: 16036, Name: splunk-winevtlog.exe, Path: C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe
+PID: 16180, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 16188, Name: compsup.exe, Path: C:\Program Files\Splunk\bin\compsup.exe
+PID: 16532, Name: Docker Desktop.exe, Path: C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+PID: 16728, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 16772, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 16856, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 16876, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 17088, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 17164, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 17200, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 17296, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 17684, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 17724, Name: mongod.exe, Path: C:\Program Files\Splunk\bin\mongod.exe
+PID: 17800, Name: AppProvisioningPlugin.exe, Path: C:\ProgramData\Lenovo\Udc\Hosts\24.10.0.10\x64\AppProvisioningPlugin.exe
+PID: 17832, Name: LenovoVantage-(GenericTelemetryAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(GenericTelemetryAddin).exe
+PID: 18416, Name: sihost.exe, Path: C:\Windows\System32\sihost.exe
+PID: 18544, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 18740, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 18752, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 18784, Name: csrss.exe, Path: C:\Windows\System32\csrss.exe
+PID: 18840, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 18848, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 18940, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 18996, Name: identity.exe, Path: C:\Program Files\Splunk\var\run\supervisor\pkg-run\pkg-identity3157175632\identity.exe
+PID: 19012, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 19084, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 19120, Name: SearchIndexer.exe, Path: C:\Windows\System32\SearchIndexer.exe
+PID: 19348, Name: uihost.exe, Path: C:\Program Files\McAfee\WebAdvisor\uihost.exe
+PID: 19568, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 19580, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 19720, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 19856, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 19868, Name: ApplicationFrameHost.exe, Path: C:\Windows\System32\ApplicationFrameHost.exe
+PID: 20020, Name: splunkd.exe, Path: C:\Program Files\Splunk\bin\splunkd.exe
+PID: 20032, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 20208, Name: python3.9.exe, Path: C:\Program Files\Splunk\bin\python3.9.exe
+PID: 20364, Name: WidgetService.exe, Path: C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.1.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+PID: 20456, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 20460, Name: dwm.exe, Path: C:\Windows\System32\dwm.exe
+PID: 20740, Name: SearchProtocolHost.exe, Path: C:\Windows\System32\SearchProtocolHost.exe
+PID: 20776, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 20888, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 21012, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 21300, Name: LenovoVantage-(MultimediaAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(MultimediaAddin).exe
+PID: 21376, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 22412, Name: explorer.exe, Path: C:\Windows\explorer.exe
+PID: 22472, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 22732, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 22780, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 22868, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 22900, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 23056, Name: powershell.exe, Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID: 23152, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 23232, Name: StartMenuExperienceHost.exe, Path: C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+PID: 23492, Name: python.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Python\Python313\python.exe
+PID: 23504, Name: UserOOBEBroker.exe, Path: C:\Windows\System32\oobe\UserOOBEBroker.exe
+PID: 23608, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 23672, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 23696, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 23728, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 23840, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 24076, Name: winlogon.exe, Path: C:\Windows\System32\winlogon.exe
+PID: 24196, Name: pwahelper.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\pwahelper.exe
+PID: 24216, Name: Docker Desktop.exe, Path: C:\Program Files\Docker\Docker\frontend\Docker Desktop.exe
+PID: 24224, Name: pet.exe, Path: C:\Users\NANDHA GOPAL\.vscode\extensions\ms-python.python-2025.2.0-win32-x64\python-env-tools\bin\pet.exe
+PID: 24260, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 24312, Name: wsl.exe, Path: C:\Program Files\WSL\wsl.exe
+PID: 24384, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 24444, Name: Discord.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Discord\app-1.0.9186\Discord.exe
+PID: 24556, Name: fontdrvhost.exe, Path: C:\Windows\System32\fontdrvhost.exe
+PID: 24604, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 24620, Name: dllhost.exe, Path: C:\Windows\System32\dllhost.exe
+PID: 24740, Name: WhatsApp.exe, Path: C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2504.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+PID: 24780, Name: com.docker.backend.exe, Path: C:\Program Files\Docker\Docker\resources\com.docker.backend.exe
+PID: 24832, Name: FnHotkeyUtility.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\FnHotkeyUtility.exe
+PID: 24888, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 25076, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 25100, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 25120, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 25164, Name: LenovoVantage-(LenovoServiceBridgeAddin).exe, Path: C:\Program Files (x86)\Lenovo\VantageService\4.3.21.0\LenovoVantage-(LenovoServiceBridgeAddin).exe
+PID: 25240, Name: msedgewebview2.exe, Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe
+PID: 25452, Name: com.docker.dev-envs.exe, Path: C:\Program Files\Docker\Docker\resources\com.docker.dev-envs.exe
+PID: 25504, Name: FnHotkeyCapsLKNumLK.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_835bd694f1ef7154\FnHotkeyCapsLKNumLK.exe
+PID: 25584, Name: RuntimeBroker.exe, Path: C:\Windows\System32\RuntimeBroker.exe
+PID: 25688, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 26360, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 26544, Name: python3.9.exe, Path: C:\Program Files\Splunk\bin\python3.9.exe
+PID: 26676, Name: python.exe, Path: C:\Users\NANDHA GOPAL\OneDrive\Desktop\practice\.venv\Scripts\python.exe
+PID: 26840, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 27316, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 27656, Name: conhost.exe, Path: C:\Windows\System32\conhost.exe
+PID: 27880, Name: wsl.exe, Path: C:\Program Files\WSL\wsl.exe
+PID: 27928, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
+PID: 28148, Name: UserSSCtrl.exe, Path: C:\Windows\System32\DriverStore\FileRepository\lnvsst.inf_amd64_f352f4254b85e733\UserSSCtrl.exe
+PID: 28228, Name: SDXHelper.exe, Path: C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+PID: 28572, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 28616, Name: msrdc.exe, Path: C:\Program Files\WSL\msrdc.exe
+PID: 28692, Name: wslhost.exe, Path: C:\Program Files\WSL\wslhost.exe
+PID: 29088, Name: wsl.exe, Path: C:\Windows\System32\wsl.exe
+PID: 29340, Name: com.docker.build.exe, Path: C:\Program Files\Docker\Docker\resources\com.docker.build.exe
+PID: 29580, Name: wsl.exe, Path: C:\Windows\System32\wsl.exe
+PID: 29612, Name: WmiPrvSE.exe, Path: C:\Windows\System32\wbem\WmiPrvSE.exe
+PID: 30252, Name: Code.exe, Path: C:\Users\NANDHA GOPAL\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 30668, Name: msedge.exe, Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID: 31544, Name: svchost.exe, Path: C:\Windows\System32\svchost.exe
